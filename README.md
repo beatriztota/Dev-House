@@ -1,6 +1,6 @@
 # Dev-House 🏡
 
-Dev-House é uma landing page desenvolvida para promover o aluguel de casas. Este projeto utiliza **HTML** e **Tailwind CSS** para oferecer uma interface limpa, moderna e responsiva.
+Dev-House é uma landing page desenvolvida para promover o aluguel de casas. Este projeto utiliza **HTML** e **Tailwind CSS** para oferecer uma interface limpa e moderna.
 
 ## 🌟 Visão Geral
 
